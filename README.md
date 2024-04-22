@@ -24,8 +24,4 @@ The proposed model will enable X Education to focus its sales efforts more effec
 - Recall: 88%  
 - Accuracy Score: 75%
 
-**Key Insights:**  
-1. The majority of leads originate from Google and direct traffic sources, indicating the effectiveness of online search and direct engagement. Notably, Olark chat organic search exhibited a low conversion rate, while references and the Welingak website showed high conversion rates.  
-2. Leads from a Management background demonstrated a high conversion rate, while those from Banking backgrounds, despite fewer leads, also exhibited a good conversion rate.  
-3. Unemployed individuals showed a decent conversion rate, while working professionals had a very high conversion rate but with fewer leads.  
-4. Mumbai emerged as the city with the highest conversion rate.  
+
